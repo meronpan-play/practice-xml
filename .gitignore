@@ -1,0 +1,11 @@
+xml-db-batch/target/classes/com/example/batch/Main.class
+xml-db-batch/target/classes/com/example/batch/config/DbConfig.class
+xml-db-batch/target/classes/com/example/batch/dao/ItemDao.class
+xml-db-batch/target/classes/com/example/batch/exception/BatchException.class
+xml-db-batch/target/classes/com/example/batch/model/Item.class
+xml-db-batch/target/classes/com/example/batch/model/ItemListWrapper.class
+xml-db-batch/target/classes/com/example/batch/xml/XmlItemReader.class
+xml-db-batch/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+xml-db-batch/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+.vscode/settings.json
+xml-db-batch/target/classes/sample.xml
