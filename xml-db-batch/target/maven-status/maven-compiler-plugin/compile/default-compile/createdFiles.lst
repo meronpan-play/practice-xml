@@ -1,7 +1,0 @@
-com\example\batch\config\DbConfig.class
-com\example\batch\exception\BatchException.class
-com\example\batch\xml\XmlItemReader.class
-com\example\batch\Main.class
-com\example\batch\dao\ItemDao.class
-com\example\batch\model\Item.class
-com\example\batch\model\ItemListWrapper.class
