@@ -1,0 +1,12 @@
+<root>
+    <item>
+        <id>123</id>
+        <name>Test product</name>
+        <created>2025-01-01</created>
+        <tags>
+            <tag>aaa</tag>
+            <tag>bbb</tag>
+        </tags>
+        <price>1200.50</price>
+    </item>
+</root>
